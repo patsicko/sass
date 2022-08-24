@@ -1,0 +1,90 @@
+.part2 a {
+  color: rgb(11, 8, 2);
+  font-size: 20px;
+  text-decoration: none;
+  border: 3px solid blue;
+  height: 400px;
+  width: 120px;
+}
+
+body {
+  background-color: rgb(197, 210, 210);
+  width: 800px;
+  height: 600px;
+  border: 20px solid orange;
+}
+
+.part1 {
+  background-color: rgb(180, 175, 212);
+}
+
+.part2 {
+  background-color: #ee82ee;
+}
+
+body .part1 {
+  color: rgb(152, 4, 132);
+  height: 300px;
+}
+
+.part3 {
+  border: 2px solid red;
+  background-color: rgb(99, 175, 212);
+  height: 200px;
+  width: 800px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.part4 {
+  border: 2px solid red;
+  background-color: rgb(99, 175, 212);
+  height: 200px;
+  width: 800px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.partx {
+  border: 2px solid red;
+  background-color: rgb(99, 175, 212);
+  height: 200px;
+  width: 800px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.button1, .button3, .button2 {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(161, 39, 124);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+}
+
+.button2, .button3 {
+  text-decoration: underline;
+}
+
+.button3 {
+  -webkit-text-decoration-color: aqua;
+          text-decoration-color: aqua;
+  border: 2px solid red;
+  background-color: rgb(99, 175, 212);
+  height: 200px;
+  width: 800px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: #ee82ee;
+}
+
+.include {
+  border: 2px solid red;
+  background-color: rgb(99, 175, 212);
+  height: 200px;
+  width: 800px;
+  border-radius: 20px;
+  margin: auto;
+}/*# sourceMappingURL=style.css.map */
